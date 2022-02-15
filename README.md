@@ -1,8 +1,7 @@
 # Searcing
 ## Daftar Isi
-1. [Sequential Searching](https://github.com/AgungStudent/searching)
-2. [Binary Searching](https://github.com/AgungStudent/searching)
-
+1. [Sequential Searching](https://github.com/AgungStudent/searching/tree/main/sequential_search)
+2. [Binary Searching](https://github.com/AgungStudent/searching/tree/main/binary_search)
 ## Penjelasan Searching
 searching adalah proses pencarian data dari kumpulan data. Kumpulan data bisa berupa elemen-elemen array, mencari nomer dari range nomer tertentu, database, dan lain-lain. Ada banyak sekali metode pencarian data pada pemrograman, yang paling sering dipakai ialah ***Sequential Searching*** dan ***Binary Searching***. Untuk melihat secara visualisasi perbedaan antara keduannya menggunakan link berikut [Searching Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html). Untuk melihat penjelasan detailnya silahkan baca penjelasan dibawah.
 
