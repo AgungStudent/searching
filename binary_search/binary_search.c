@@ -7,7 +7,7 @@ int main() {
   // inisialisasi variable
   low = 0;
   uji = 0;
-  high = 100 - 1;
+  high = 100;
   get_data = 0;
 // create goto
 input:
